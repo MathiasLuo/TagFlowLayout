@@ -1,0 +1,47 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+
+    <ViewGroup.FlowLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+        <TextView
+            style="@style/flsg1"
+            android:text="读书" />
+
+        <TextView
+            style="@style/flsg1"
+            android:text="lol" />
+
+        <TextView
+            style="@style/flsg1"
+            android:text="上山打老虎" />
+
+        <TextView
+            style="@style/flsg1"
+            android:text="然并卵" />
+
+        <TextView
+            style="@style/flsg1"
+            android:text="就是这样 喵" />
+
+        <TextView
+            style="@style/flsg1"
+            android:text="看什么看" />
+
+        <TextView
+            style="@style/flsg1"
+            android:text="学习真累" />
+
+        <TextView
+            style="@style/flsg1"
+            android:text="就这样吧！！！" />
+
+
+    </ViewGroup.FlowLayout>
+
+</RelativeLayout>
